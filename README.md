@@ -31,8 +31,7 @@
 <a href="mailto:swetha.cs17@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
 <a href="[https://www.linkedin.com/in/swetha-cse/](https://www.linkedin.com/in/swetha-c-011099293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
 
-
 ---
-
+<br>
 > 🌟 *“Modernism does not mean minimalism, contemporary does not forsake tradition and technology does not mean abandon people and senses.”* — Tord Boontje  
 
