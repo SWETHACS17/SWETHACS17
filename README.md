@@ -1,4 +1,9 @@
-# About Me
+## OMG Snakes Are Eating My Commits!!🐍 
+![Snake animation](https://SWETHACS17.github.io/snk/github-contribution-grid-snake.svg)
+##
+<br>
+
+# Now That Its Gone, Lets Get To Know About Me
 <img align="right" alt="coding" width="300" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif">
 
 - 👋 Hi, I’m [`Swetha`]([https://www.linkedin.com/in/swetha-cse/](https://www.linkedin.com/in/swetha-c-011099293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
@@ -25,11 +30,7 @@
 
 <a href="mailto:swetha.cs17@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
 <a href="[https://www.linkedin.com/in/swetha-cse/](https://www.linkedin.com/in/swetha-c-011099293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
-<br>
-##
 
-## OMG Snakes Are Eating My Commits!!🐍 
-![Snake animation](https://SWETHACS17.github.io/snk/github-contribution-grid-snake.svg)
 
 <br><br>
 > 🌟 *“Modernism does not mean minimalism, contemporary does not forsake tradition and technology does not mean abandon people and senses.”* — Tord Boontje  
