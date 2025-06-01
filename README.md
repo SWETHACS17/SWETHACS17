@@ -28,7 +28,7 @@
 <br>
 ##
 
-## Asymmetric Balance. Designers Would Understand.🐦💫
+## OMG Snakes Are Eating My Commits!!🐍 
 ![Snake animation](https://SWETHACS17.github.io/snk/github-contribution-grid-snake.svg)
 
 <br><br>
