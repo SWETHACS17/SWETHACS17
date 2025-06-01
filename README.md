@@ -25,6 +25,11 @@
 
 <a href="mailto:swetha.cs17@gmail.com"><img height="48" width="48" src="https://i.ibb.co/vD0fmh5/iconizer-icons8-gmail.png" ></a>
 <a href="[https://www.linkedin.com/in/swetha-cse/](https://www.linkedin.com/in/swetha-c-011099293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">![LinkedIn](https://skillicons.dev/icons?i=linkedin)</a>
+<br>
+##
+
+## Asymmetric Balance. Designers Would Understand.🐦💫
+![Snake animation](https://SWETHACS17.github.io/snk/github-contribution-grid-snake.svg)
 
 <br><br>
 > 🌟 *“Modernism does not mean minimalism, contemporary does not forsake tradition and technology does not mean abandon people and senses.”* — Tord Boontje  
@@ -47,4 +52,3 @@
 ![Animated GitHub Stats](https://github-readme-stats.vercel.app/api?username=SWETHACS17&show_icons=true&theme=radical&count_private=true)
 <br><br><br>
 <p align="center"><em>"Building ideas into reality, one line of code at a time."</em></p>
-
