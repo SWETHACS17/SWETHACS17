@@ -3,7 +3,7 @@
 ##
 <br>
 
-# Now That Its Gone, Lets Get To Know About Me
+# Now That Its Gone, Lets Get To Know About Me💫
 <img align="right" alt="coding" width="300" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif">
 
 - 👋 Hi, I’m [`Swetha`]([https://www.linkedin.com/in/swetha-cse/](https://www.linkedin.com/in/swetha-c-011099293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
