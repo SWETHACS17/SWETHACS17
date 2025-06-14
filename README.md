@@ -1,9 +1,25 @@
-## OMG Snakes Are Eating My Commits!!🐍 
+ 
 ![Snake animation](https://SWETHACS17.github.io/snk/github-contribution-grid-snake.svg)
-##
+
 <br>
 
-# Now That Its Gone, Lets Get To Know About Me💫
+# Lets Get To Know About Me💫
+<br><br>
+## GitHub Contributions Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SWETHACS17&theme=github-dark&color=ff69b4&point=ff69b4&line=ff69b4&area=true&hide_border=true" width="90%"/>
+</p>
+
+## Git Stats 
+
+<div align="center">
+  <img width="46%" 
+       src="https://github-readme-stats.vercel.app/api?username=SWETHACS17&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48.5%" src="https://nirzak-streak-stats.vercel.app/?user=SWETHACS17&theme=radical&hide_border=true&count_private=true" />
+</div>
+
+<br><br><br>
+
 <img align="right" alt="coding" width="300" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif">
 
 - 👋 Hi, I’m [`Swetha`]([https://www.linkedin.com/in/swetha-cse/](https://www.linkedin.com/in/swetha-c-011099293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
@@ -35,21 +51,11 @@
 <br><br>
 > 🌟 *“Modernism does not mean minimalism, contemporary does not forsake tradition and technology does not mean abandon people and senses.”* — Tord Boontje  
 <br><br>
-## GitHub Contributions Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SWETHACS17&theme=github-dark&color=ff69b4&point=ff69b4&line=ff69b4&area=true&hide_border=true" width="90%"/>
-</p>
-
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SWETHACS17&theme=algolia&title=Commit,Repositories,Stars,Followers,PullRequest&margin-w=15&margin-h=15" />
 </p>
-<br>
-
-## Stats 
-![Animated GitHub Stats](https://github-readme-stats.vercel.app/api?username=SWETHACS17&show_icons=true&theme=radical&count_private=true)
 <br><br><br>
 <p align="center"><em>"Building ideas into reality, one line of code at a time."</em></p>
