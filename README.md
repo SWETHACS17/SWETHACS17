@@ -20,6 +20,10 @@
 
 <br><br><br>
 
+## Open Source Contributions
+[![An image of @swethacs17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swethacs17)](https://holopin.io/@swethacs17)
+<br/>
+
 <img align="right" alt="coding" width="300" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif">
 
 - 👋 Hi, I’m [`Swetha`]([https://www.linkedin.com/in/swetha-cse/](https://www.linkedin.com/in/swetha-c-011099293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
