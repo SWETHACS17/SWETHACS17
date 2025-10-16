@@ -1,69 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="860" height="320" viewBox="0 0 860 320" role="img" aria-labelledby="title desc">
-  <title id="title">Swetha — typing animation</title>
-  <desc id="desc">Handwritten Playwrite-style typing animation with gradient fill and blinking cursor.</desc>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="380" viewBox="0 0 920 380" role="img" aria-labelledby="title desc">
+  <title id="title">Swetha — typing animation (looping)</title>
+  <desc id="desc">Handwritten Playwrite-style typing animation with embedded font, gradient fill and looping animation.</desc>
   <defs>
-    <!-- If you host the Playwrite font (woff2) in your repo you can uncomment and replace the URL with the file path.
-         Example:
-         @font-face {
-           font-family: 'PlaywriteDE';
-           src: url('Playwrite-DE-SAS.woff2') format('woff2');
-         }
-    -->
     <style type="text/css"><![CDATA[
-      @import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+SAS&display=swap');
-
-      .hand {
-        font-family: "Playwrite DE SAS", "Playwrite", "Segoe Script", "Segoe UI", "Comic Sans MS", "cursive";
-        font-weight: 400;
-        font-size: 20px;
-        letter-spacing: 0.2px;
+      @font-face {
+        font-family: 'PlaywriteDE';
+        src: url('data:font/truetype;base64,PASTE-YOUR-BASE64-FONT-HERE') format('truetype');
+        font-weight: 100 900;
+        font-style: normal;
       }
-
-      .line { font-size: 20px; dominant-baseline: hanging; }
-
-      /* cursor styling inside svg */
-      .cursor {
-        rx: 1.2;
-      }
+      .hand { font-family: 'PlaywriteDE', cursive, "Segoe UI", "Segoe UI Emoji"; font-size:20px; }
+      .line { font-size:20px; dominant-baseline: hanging; }
+      .cursor { rx: 1.2; }
     ]]></style>
 
-    <!-- gradient -->
     <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0">
       <stop offset="0%" stop-color="#7F00FF"/>
       <stop offset="50%" stop-color="#FF007A"/>
       <stop offset="100%" stop-color="#FFA000"/>
     </linearGradient>
-
-    <!-- text clip (used to reveal text) -->
-    <mask id="revealMask">
-      <rect x="0" y="0" width="860" height="320" fill="white"/>
-    </mask>
   </defs>
 
-  <!-- background (transparent) -->
   <rect width="100%" height="100%" fill="transparent"/>
 
-  <!-- Compose lines; each line has a clipRect that animates width to simulate typing reveal -->
-  <!-- We'll place each line as a <text> with a moving <rect> mask that expands horizontally -->
   <g transform="translate(30,30)" class="hand" fill="url(#grad)">
 
-    <!-- Line 1: wave + name with LinkedIn markdown styling -->
+    <!-- Line 1 -->
     <g id="l1">
       <text x="0" y="0" class="line" font-size="26">👋 Hi, I’m <tspan font-weight="700">Swetha</tspan></text>
-      <!-- reveal rect -->
       <rect x="0" y="-6" width="0" height="30" fill="white">
-        <animate attributeName="width"
-                 from="0" to="480"
-                 dur="1.8s"
-                 begin="0s"
-                 fill="freeze" />
+        <animate attributeName="width" from="0" to="480" dur="1.8s" begin="0s" repeatCount="indefinite" />
       </rect>
-      <!-- cursor -->
       <rect x="480" y="-6" width="4" height="26" fill="black" class="cursor">
-        <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" begin="0.9s"/>
+        <animate attributeName="opacity" values="0;1;0" dur="1s" begin="0.9s" repeatCount="indefinite"/>
       </rect>
     </g>
 
@@ -71,10 +41,10 @@
     <g id="l2" transform="translate(0,42)">
       <text x="0" y="0" class="line">- 👩‍💻 Web Developer.</text>
       <rect x="0" y="-6" width="0" height="28" fill="white">
-        <animate attributeName="width" from="0" to="320" dur="1.3s" begin="2.1s" fill="freeze" />
+        <animate attributeName="width" from="0" to="320" dur="1.3s" begin="2.1s" repeatCount="indefinite" />
       </rect>
       <rect x="320" y="-6" width="4" height="26" fill="black" class="cursor">
-        <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" begin="2.7s"/>
+        <animate attributeName="opacity" values="0;1;0" dur="1s" begin="2.7s" repeatCount="indefinite"/>
       </rect>
     </g>
 
@@ -82,10 +52,10 @@
     <g id="l3" transform="translate(0,84)">
       <text x="0" y="0" class="line">- 👩‍🎓 Third-Year Computer Science Student, passionate about building scalable and impactful products.</text>
       <rect x="0" y="-6" width="0" height="28" fill="white">
-        <animate attributeName="width" from="0" to="760" dur="3.6s" begin="3.6s" fill="freeze" />
+        <animate attributeName="width" from="0" to="760" dur="3.6s" begin="3.6s" repeatCount="indefinite" />
       </rect>
       <rect x="760" y="-6" width="4" height="26" fill="black" class="cursor">
-        <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" begin="5.4s"/>
+        <animate attributeName="opacity" values="0;1;0" dur="1s" begin="5.4s" repeatCount="indefinite"/>
       </rect>
     </g>
 
@@ -93,10 +63,10 @@
     <g id="l4" transform="translate(0,126)">
       <text x="0" y="0" class="line">- 🌐 My Portfolio: <tspan text-decoration="underline">https://swetha-portfolio-gold.vercel.app/</tspan></text>
       <rect x="0" y="-6" width="0" height="28" fill="white">
-        <animate attributeName="width" from="0" to="760" dur="3.0s" begin="7.6s" fill="freeze" />
+        <animate attributeName="width" from="0" to="760" dur="3.0s" begin="7.6s" repeatCount="indefinite" />
       </rect>
       <rect x="760" y="-6" width="4" height="26" fill="black" class="cursor">
-        <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" begin="9.7s"/>
+        <animate attributeName="opacity" values="0;1;0" dur="1s" begin="9.7s" repeatCount="indefinite"/>
       </rect>
     </g>
 
@@ -104,10 +74,10 @@
     <g id="l5" transform="translate(0,168)">
       <text x="0" y="0" class="line">- 🧠 Learning DSA, OOP, OS, COA, and sharpening problem-solving skills.</text>
       <rect x="0" y="-6" width="0" height="28" fill="white">
-        <animate attributeName="width" from="0" to="760" dur="3.2s" begin="10.9s" fill="freeze" />
+        <animate attributeName="width" from="0" to="760" dur="3.2s" begin="10.9s" repeatCount="indefinite" />
       </rect>
       <rect x="760" y="-6" width="4" height="26" fill="black" class="cursor">
-        <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" begin="13.3s"/>
+        <animate attributeName="opacity" values="0;1;0" dur="1s" begin="13.3s" repeatCount="indefinite"/>
       </rect>
     </g>
 
@@ -115,10 +85,10 @@
     <g id="l6" transform="translate(0,210)">
       <text x="0" y="0" class="line">- 🎨 I love crafting clean UI & expressive experiences.</text>
       <rect x="0" y="-6" width="0" height="28" fill="white">
-        <animate attributeName="width" from="0" to="620" dur="2.6s" begin="14.5s" fill="freeze" />
+        <animate attributeName="width" from="0" to="620" dur="2.6s" begin="14.5s" repeatCount="indefinite" />
       </rect>
       <rect x="620" y="-6" width="4" height="26" fill="black" class="cursor">
-        <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" begin="16.7s"/>
+        <animate attributeName="opacity" values="0;1;0" dur="1s" begin="16.7s" repeatCount="indefinite"/>
       </rect>
     </g>
 
@@ -126,10 +96,10 @@
     <g id="l7" transform="translate(0,252)">
       <text x="0" y="0" class="line">- 🤝 Team player | Fast learner | Clear communicator.</text>
       <rect x="0" y="-6" width="0" height="28" fill="white">
-        <animate attributeName="width" from="0" to="680" dur="2.8s" begin="17.8s" fill="freeze" />
+        <animate attributeName="width" from="0" to="680" dur="2.8s" begin="17.8s" repeatCount="indefinite" />
       </rect>
       <rect x="680" y="-6" width="4" height="26" fill="black" class="cursor">
-        <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" begin="20.2s"/>
+        <animate attributeName="opacity" values="0;1;0" dur="1s" begin="20.2s" repeatCount="indefinite"/>
       </rect>
     </g>
 
@@ -137,13 +107,12 @@
     <g id="l8" transform="translate(0,294)">
       <text x="0" y="0" class="line">- 💙 I believe in collaborative learning and collective growth!</text>
       <rect x="0" y="-6" width="0" height="28" fill="white">
-        <animate attributeName="width" from="0" to="760" dur="3.2s" begin="21.5s" fill="freeze" />
+        <animate attributeName="width" from="0" to="760" dur="3.2s" begin="21.5s" repeatCount="indefinite" />
       </rect>
       <rect x="760" y="-6" width="4" height="26" fill="black" class="cursor">
-        <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" begin="23.9s"/>
+        <animate attributeName="opacity" values="0;1;0" dur="1s" begin="23.9s" repeatCount="indefinite"/>
       </rect>
     </g>
 
   </g>
-
 </svg>
