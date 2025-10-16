@@ -31,7 +31,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SWETHACS17&theme=algolia&title=Commit,Repositories,Stars,Followers,PullRequest&margin-w=15&margin-h=15" />
 </p>
 <br><br><br>
-<img align="center" alt="coding" width="1000" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif">
+<img align="center" alt="coding" width="800" src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif">
 
 ## Programming Languages & Frameworks
 ![Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,react,mui,threejs,tailwind,nextjs,bootstrap,nodejs,mysql,firebase,axios,rest)
