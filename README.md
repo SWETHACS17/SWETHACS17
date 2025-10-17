@@ -1,13 +1,9 @@
  # Lets Get To Know About Me💫
 <br><br>
 ![Snake animation](https://SWETHACS17.github.io/snk/github-contribution-grid-snake.svg)
-
-<br><br>
-
 ![Swetha Typing Animation](./typing-gif.gif)
 
-<br><br>
-
+<br>
 ## GitHub Contributions Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SWETHACS17&theme=github-dark&color=ff69b4&point=ff69b4&line=ff69b4&area=true&hide_border=true" width="90%"/>
