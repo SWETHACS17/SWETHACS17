@@ -4,7 +4,8 @@
 
 <br><br>
 
-![Swetha typing animation](./typing-readme.svg)
+![Swetha Typing Animation](./typing-gif.gif)
+
 <br><br>
 
 ## GitHub Contributions Graph
