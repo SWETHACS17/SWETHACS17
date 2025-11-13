@@ -6,7 +6,7 @@
 
 - **Hello! I'm Swetha C 🐦‍🔥** 
 - **CSE Undergraduate 🌞**
--  **I love :**  Web Dev 🪄, IoT 📸, Computer Networks 💻
+-  **I love :**  Web Dev 🪄, IoT 📸, Networks 💻, Design Patterns 🦉
 -  **Im interested in :**  AWS ☁️, Blockchain ⛓️, AI/ML 🪼
 -  **I actively participate in hackathons to design scalable, tech-driven solutions.**
 -   **Happy to connect! ✨**
