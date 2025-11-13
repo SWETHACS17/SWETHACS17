@@ -8,6 +8,7 @@
 - **CSE Undergraduate 🌞**
 -  **I love :**  Web Dev 🪄, IoT 📸, Computer Networks 💻
 -  **Im interested in :**  AWS ☁️, Blockchain ⛓️, AI/ML 🪼
+-  **I actively participate in hackathons to design scalable, tech-driven solutions.**
 -   **Happy to connect! ✨**
 
 </td>
@@ -69,8 +70,16 @@
   <a href="https://www.linkedin.com/in/swetha-c-011099293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img height="48" width="48" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
-</p><br><br><br>
+</p>
 
+
+## 🧠 Coding Platform
+
+<p align="center">
+  <a href="https://leetcode.com/u/Swetha___C/" target="_blank" rel="noopener noreferrer">
+    <img alt="LeetCode - Swetha" src="https://img.shields.io/badge/LeetCode-Swetha___C-FFA116?logo=leetcode&style=for-the-badge" />
+  </a>
+</p><br><br><br><br>
 
 
 > 🌟 *“Modernism does not mean minimalism, contemporary does not forsake tradition and technology does not mean abandon people and senses.”*  
