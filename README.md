@@ -73,7 +73,7 @@
 </p>
 
 
-## 🧠 Coding Platform
+## 🖥️ Coding Platform
 
 <p align="center">
   <a href="https://leetcode.com/u/Swetha___C/" target="_blank" rel="noopener noreferrer">
