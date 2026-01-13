@@ -6,12 +6,12 @@
 />
 
 <img
-  align="centre"
+  align="center"
   width="58%"
   alt="coding"
   src="https://www.google.com/logos/doodles/2017/celebrating-50-years-of-kids-coding-5745168905928704-2xa.gif"
 />
-<br><br>
+<br>
 <br clear="right"/>
 
 <img
@@ -51,8 +51,9 @@
   />
 </p>
 
-##
 
+<!-- ================= stats 
+##
 <img
   src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=24&duration=1&pause=1000&color=FFFFFF&width=400&lines=GitHub+Stats"
 />
@@ -74,7 +75,7 @@
     width="48%"
   />
 </p>
-
+================= -->
 ##
 
 <img
